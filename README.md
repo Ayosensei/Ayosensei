@@ -23,20 +23,11 @@ Frontend developer based in Lagos, Nigeria — building fast, polished web apps 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AI Storyteller**](https://github.com/Ayosensei/ai-storyteller) | Generate custom stories by genre, tone & length using Google's Generative AI | Next.js · TypeScript · Gemini API |
-| [**Football Insight Hub**](https://github.com/Ayosensei/football-insight-hub) | Live football stats and analytics dashboard | React · Vite · Tailwind CSS |
-| [**Crypto Tracker**](https://github.com/Ayosensei/crypto-tracker) | Real-time cryptocurrency price and market data tracker | React · Vite · CoinGecko API |
+| [**Signal**](https://github.com/Ayosensei/signal-public) | A high-performance algorithmic Match-3 Puzzle Engine built from the ground up using React and Vite. | React · Vite · Vanilla CSS · Supabase(Optional)|
+| [**Cyber Weather**](https://github.com/Ayosensei/cyberweather) | A futuristic, immersive weather dashboard built for the Year 2096. Features a high-fidelity cyberpunk aesthetic with real-time atmospheric data, 3D interactive radar systems, and glassmorphic UI elements. | Next.js · Tailwind CSS · Framer Motion · Lucide React · OpenMeteo API |
+| [**Trade Journal**](https://github.com/Ayosensei/trade-journal) | A comprehensive trading journal application designed to help traders track their performance, refine strategies, and maintain discipline. | React · Node.js · Tailwind CSS |
 | [**FBD**](https://github.com/Ayosensei/fbd) | A personal project built with intention | TypeScript |
 | [**Portfolio**](https://ao-oyebade.vercel.app) | My corner of the internet | Next.js · TypeScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayosensei&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayosensei&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
 
 ---
 
