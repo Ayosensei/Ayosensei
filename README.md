@@ -1,6 +1,6 @@
 # Hey, I'm Ayooluwa 👋
 
-Frontend developer based in Lagos, Nigeria — building fast, polished web apps with TypeScript & React. I like turning ideas into things you can actually open in a browser.
+Frontend/FullStack developer based in Nigeria, building fast, polished web apps with TypeScript & React. I like turning ideas into things you can actually open in a browser.
 
 ---
 
@@ -36,4 +36,4 @@ Frontend developer based in Lagos, Nigeria — building fast, polished web apps 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ao--oyebade.vercel.app-black?style=flat-square&logo=vercel)](https://ao-oyebade.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayosensei-181717?style=flat-square&logo=github)](https://github.com/Ayosensei)
 
-*Currently open to frontend roles and interesting collaborations.*
+*Currently open to frontend/FullStack roles and interesting collaborations.*
