@@ -43,7 +43,7 @@ Frontend/FullStack developer based in Nigeria, building fast, polished web apps 
 
 ## 🌱 Activity Graph
 
-![Rebecca's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RebeccaAyodele&theme=tokyo-night)
+![Ayooluwa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayosensei&theme=tokyo-night)
 
 ### 📬 Get in touch
 
