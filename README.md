@@ -31,20 +31,6 @@ Frontend/FullStack developer based in Nigeria, building fast, polished web apps 
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayooluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayosensei&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayosensei&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayosensei&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Activity Graph
-
-![Ayooluwa's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayosensei&theme=tokyo-night)
-
 ### 📬 Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ao--oyebade.vercel.app-black?style=flat-square&logo=vercel)](https://ao-oyebade.vercel.app)
