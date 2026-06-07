@@ -26,7 +26,7 @@ Frontend/FullStack developer based in Nigeria, building fast, polished web apps 
 | [**Signal**](https://github.com/Ayosensei/signal-public) | A high-performance algorithmic Match-3 Puzzle Engine built from the ground up using React and Vite. | React · Vite · Vanilla CSS · Supabase(Optional)|
 | [**Cyber Weather**](https://github.com/Ayosensei/cyberweather) | A futuristic, immersive weather dashboard built for the Year 2096. Features a high-fidelity cyberpunk aesthetic with real-time atmospheric data, 3D interactive radar systems, and glassmorphic UI elements. | Next.js · Tailwind CSS · Framer Motion · Lucide React · OpenMeteo API |
 | [**Trade Journal**](https://github.com/Ayosensei/trade-journal) | A comprehensive trading journal application designed to help traders track their performance, refine strategies, and maintain discipline. | React · Node.js · Tailwind CSS |
-| [**FBD**](https://github.com/Ayosensei/fbd) | A personal project built with intention | TypeScript |
+| [**OAU Law Reports**](https://oaulawreports.vercel.app) | A digital repositry for OAU Law Reports Unit | TypeScript · MongoDB|
 | [**Portfolio**](https://ao-oyebade.vercel.app) | My corner of the internet | Next.js · TypeScript |
 
 ---
