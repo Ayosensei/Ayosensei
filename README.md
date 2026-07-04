@@ -40,10 +40,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayosensei&show_icons=true&hide_border=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayosensei&layout=compact&hide_border=true&theme=radium" alt="Top Languages" />
+  <a href="https://commit-history.com/Ayosensei">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Ayosensei?theme=dark" />
+      <img alt="Ayosensei's commit history" src="https://commit-history.com/embed/Ayosensei" />
+    </picture>
+  </a>
 </div>
-
 <br />
 
 ---
