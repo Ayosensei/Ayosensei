@@ -42,15 +42,13 @@
 
 ---
 
-#### 2. [Looku Looku 👀](https://github.com/Ayosensei/looku-looku) — Automated B2B Lead Discovery & Audit Engine
-> *A high-impact lead generation tool that locates offline businesses, audits digital presence, and enriches verified contact handles for client acquisition.*
+#### 2. [Trade Journal](https://trade-journal-sigma.vercel.app/) — Full-Stack Trading Performance & Risk Tracker
+> *A full-featured trading journal and analytics dashboard designed to help financial market traders track executions, analyze equity curves, and manage position risk.*
 
-* **The Architecture:** 3-stage automated pipeline:
-  1. **Discovery:** Scrapes local businesses geographically using OpenStreetMap / Overpass API with zero external API costs.
-  2. **Qualification:** Automated website presence and health scoring algorithm (0–100 scale).
-  3. **Enrichment:** Compiles direct phone numbers, email addresses, and social handles into an actionable outreach pipeline.
-* **Stack:** `React` · `TypeScript` · `FastAPI (Python)` · `SQLite` · `OpenStreetMap / Overpass API` · `Tailwind CSS`
-* **Links:** [GitHub Repository](https://github.com/Ayosensei/looku-looku)
+* **The Problem:** Active traders struggle to objectively review historical execution discipline, win-loss ratios, and risk-to-reward metrics across messy, fragmented spreadsheets.
+* **The Solution:** A dedicated full-stack application featuring detailed trade logging (entry/exit, sizing, setup tags), interactive Chart.js equity curves and drawdown analytics, automated risk-per-trade calculators, and authenticated session management.
+* **Stack:** `React` · `Node.js` · `Tailwind CSS` · `Chart.js` · `MongoDB` · `Firebase`
+* **Links:** [Live Web App](https://trade-journal-sigma.vercel.app/) • [GitHub Repository](https://github.com/Ayosensei/trade-journal)
 
 ---
 
@@ -87,7 +85,6 @@
 
 <br />
 
-* [**Trade Journal**](https://trade-journal-sigma.vercel.app/): Full-stack trading performance tracking dashboard with Chart.js equity curve visualizations, position sizing calculators, and Firebase authentication. *(React · Node.js · MongoDB · Chart.js)*
 * [**CloverBoys**](https://cloverboys.vercel.app): Luxury Web3 community portal featuring custom Canvas particle physics and scroll-driven micro-interactions. *(Next.js · TypeScript · Framer Motion · Canvas API)*
 * [**Typify**](https://typify-rho.vercel.app/): Minimalist real-time typing speed application with keystroke telemetry, WPM curves, and focus modes. *(React · Vite · Zustand · Chart.js)*
 * [**Cyber Weather**](https://github.com/Ayosensei/cyberweather): Futuristic weather dashboard for the year 2096 with 3D interactive radar visuals and real-time atmospheric APIs. *(Next.js · Tailwind · Framer Motion · OpenMeteo API)*
